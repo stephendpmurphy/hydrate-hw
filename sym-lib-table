@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name hydrate)(type Legacy)(uri ${KIPRJMOD}/hydrate.lib)(options "")(descr ""))
+)
